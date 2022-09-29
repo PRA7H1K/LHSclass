@@ -1,3 +1,9 @@
 h6 {
     font-size: 150%;
 }
+
+nav.navbar li a {
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 125%;
+}
